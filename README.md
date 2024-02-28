@@ -2,7 +2,7 @@
 
 click the circle, to unlock
 <div style='display: flex;' align='left'>
-  <img width="350" alt="osu!lazer Passcode" src="preview/pref.png">
+  <img width="350" alt="osu!lazer Passcode" src="preview/logos.png">
 </div>
 
 Requirements:
